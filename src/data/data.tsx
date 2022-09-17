@@ -273,12 +273,12 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Instagram,
-      text: '@tbakerx',
+      text: '@lius.progammer',
       href: 'https://www.instagram.com/lius.progammer/',
     },
     {
       type: ContactType.Github,
-      text: 'tbakerx',
+      text: 'liuszez',
       href: 'https://github.com/liuszez',
     },
   ],
