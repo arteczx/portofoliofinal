@@ -273,8 +273,8 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Instagram,
-      text: '@lius.progammer',
-      href: 'https://www.instagram.com/lius.progammer/',
+      text: '@filius.edward',
+      href: 'https://www.instagram.com/filius.edward/',
     },
     {
       type: ContactType.Github,
