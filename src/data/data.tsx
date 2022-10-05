@@ -34,8 +34,8 @@ export const homePageMeta: HomepageMeta = {
   description: ``,
   ogImageUrl: ``,
   twitterCardType: 'summary_large',
-  twitterSite: `@lius.progammer`,
-  twitterCreator: `@lius.progammer`,
+  twitterSite: `@filius.edward`,
+  twitterCreator: `@filius.edward`,
   twitterDomain: `instagram.com`,
   twitterUrl: `https://reactresume.com`,
 };
