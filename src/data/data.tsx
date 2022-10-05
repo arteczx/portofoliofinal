@@ -289,5 +289,5 @@ export const contact: ContactSection = {
  */
 export const socialLinks: Social[] = [
   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/liuszez'},
-  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/lius.progammer/'}
+  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/filius.edward/'}
 ];
