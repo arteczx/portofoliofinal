@@ -186,7 +186,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'News App',
     description: 'News App using React Native',
-    url: 'https://github.com/liuszez/newsApp',
+    url: 'https://github.com/arteczx/newsApp',
     image: porfolioImage1,
   }
 
@@ -199,7 +199,7 @@ export const education: TimelineItem[] = [
   {
     date: 'July 2004 - 2005',
     location: 'Sleman',
-    title: 'Junior School',
+    title: 'kindergarten',
     content: <p>Learning Basic Life </p>,
   },
   {
@@ -279,7 +279,7 @@ export const contact: ContactSection = {
     {
       type: ContactType.Github,
       text: 'liuszez',
-      href: 'https://github.com/liuszez',
+      href: 'https://github.com/arteczx',
     },
   ],
 };
