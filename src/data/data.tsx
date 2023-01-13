@@ -278,7 +278,7 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Github,
-      text: 'liuszez',
+      text: 'Arteczx',
       href: 'https://github.com/arteczx',
     },
   ],
@@ -288,6 +288,6 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/liuszez'},
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/arteczx'},
   {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/filius.edward/'}
 ];
